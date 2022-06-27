@@ -1,0 +1,7 @@
+
+- paint a canvas a different color at each detection time, while playing the audio back
+    (tuning the algorithm)
+
+- Detection algorithm
+    - audio analysis?
+    - sta/lta algorithm?  seems more tunable perhaps.
